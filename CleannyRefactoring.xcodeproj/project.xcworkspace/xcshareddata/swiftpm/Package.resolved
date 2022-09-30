@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "axistabview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jasudev/AxisTabView.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a96f3ad288a733f1c774ea57bad8be87b45aa56e"
+      }
+    }
+  ],
+  "version" : 2
+}
